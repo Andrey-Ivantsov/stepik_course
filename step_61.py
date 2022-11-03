@@ -28,7 +28,7 @@ try:
     
     alert = browser.switch_to.alert
     alert_text = alert.text
-    print(alert_text)
+    print(alert_text+"это сообщение из уведомления, которое нужно отправить в ответ")
 
 finally:
     # ожидание чтобы визуально оценить результаты прохождения скрипта
