@@ -8,3 +8,4 @@ Trying to expand my knowledge in making autotests using python
 =======
 хочу понять, что покажет git ststus, если в main будут изменения
 >>>>>>> d26c9fad71d29881c93f5d324936ebe88f06bfeb
+ТЕСТОВОЕ ИЗМЕНЕНИЕ В MAIN
